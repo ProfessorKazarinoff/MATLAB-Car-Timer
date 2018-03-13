@@ -7,6 +7,6 @@ use matlab and arduino to measure time and speed
 
 
 
-## Licence
+## License
 
-[GNU Public 3.0](LISCENCE.md)
+[GNU Public 3.0](LICENSE)
