@@ -28,18 +28,18 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The materials above are all connected to obtain the speed and the time of an ENGR101 car within 3 feet. The photogate stand will hold the photogate and corresponding laser pair 3 feet apart from the other pair. Those photogates will be connected to the sensor shield which is embedded on top of the Arduino and a mini-USB cable will connect the Arduino to the laptop.  A more detailed hookup guide as follows
 
 ### Step 1
-Align the sensor shield’s pin with corresponding holes in the Arduino. Press them together firmly until the pins no longer show.
-# ![](/Images/arduinoandshield.png)
+Align the sensor shield’s pin with corresponding holes in the Arduino. Press them together firmly until the pins no longer show. <br />
+![](/Images/arduinoandshield.png)
 
 
 ### Step 2
-Connect the photogates into Digital 1 and Digital 2 ports of the sensor shield.  
-# ![](/Images/digitalports.png)
+Connect the photogates into Digital 1 and Digital 2 ports of the sensor shield. <br />
+![](/Images/digitalports.png)
 
 
 ### Step 3
-Setup one photogate on one end of the photogate stand and the other photogate on the other end making sure it is secure in the slot provided for both.
-# ![](/Images/photogate.png)
+Setup one photogate on one end of the photogate stand and the other photogate on the other end making sure it is secure in the slot provided for both. <br />
+![](/Images/photogate.png)
 
 
 ### Step 4
@@ -48,18 +48,18 @@ On the other side of the photogate stand from the photogates, wrap the Velcro fr
 
 
 ### Step 5
-Put the laser pointers in their holders on each stand and align them so the beam goes into the laser port of each photogate.
-# ![](/Images/alignlaser.png)
+Put the laser pointers in their holders on each stand and align them so the beam goes into the laser port of each photogate. <br />
+![](/Images/alignlaser.png)
 
 
 ### Step 6
-Set the photogate stand, with the photogates and lasers attached, at the end of the car ramp.
-# ![](/Images/)
+Set the photogate stand, with the photogates and lasers attached, at the end of the car ramp. <br />
+![](/Images/)
 
 
 ### Step 7
-Use the mini-USB cable to connect the Arduino into the laptop then run the programs.
-# ![](/Images/usb.png)
+Use the mini-USB cable to connect the Arduino into the laptop then run the programs. <br />
+![](/Images/usb.png)
 
 
 # About The Implemented Code
