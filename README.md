@@ -28,17 +28,17 @@
 
 ### Step 1
 Align the sensor shield’s pin with corresponding holes in the Arduino. Press them together firmly until the pins no longer show.
-![](/Images/arduinoandshield.png)
+# ![](/Images/arduinoandshield.png)
 
 
 ### Step 2
 Connect the photogates into Digital 1 and Digital 2 ports of the sensor shield.  
-![](/Images/digitalports.png)
+# ![](/Images/digitalports.png)
 
 
 ### Step 3
 Setup one photogate on one end of the photogate stand and the other photogate on the other end making sure it is secure in the slot provided for both.
-![](/Images/photogate.png)
+# ![](/Images/photogate.png)
 
 
 ### Step 4
@@ -48,17 +48,17 @@ On the other side of the photogate stand from the photogates, wrap the Velcro fr
 
 ### Step 5
 Put the laser pointers in their holders on each stand and align them so the beam goes into the laser port of each photogate.
-![](/Images/alignlaser.png)
+# ![](/Images/alignlaser.png)
 
 
 ### Step 6
 Set the photogate stand, with the photogates and lasers attached, at the end of the car ramp.
-![](/Images/)
+# ![](/Images/)
 
 
 ### Step 7
 Use the mini-USB cable to connect the Arduino into the laptop then run the programs.
-![](/Images/usb.png)
+# ![](/Images/usb.png)
 
 
 ## License
