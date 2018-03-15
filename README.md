@@ -12,12 +12,15 @@
 |Part Name       |Item Name                   |Link|Purpose                     |Price (USD)|
 |----------------|----------------------------|----|----------------------------|----------:|
 |Arduino         |Sparkfun RedBoard           |[Link](https://www.sparkfun.com/products/13975)|Hardware                    |19.95      |
-|pH Sensor       |Vernier pH Sensor PH-BTA    |[Link](https://www.sparkfun.com/products/12872)    |Measure pH                  |78.95      |
 |Sensor Shield   |Sparkfun Vernier Interface  |[Link](https://www.sparkfun.com/products/12858)    |pH sensor/Arduino interface |24.95      |
 |Bread board     |Breadboard - Self-adhesive  |[Link](https://www.sparkfun.com/products/12002)    |Electronic circuit builder  |4.95       |
 |Bread board base|Arduino & Breadboard holder |[Link](https://www.sparkfun.com/products/11235)    |Holds breadboard & Arduino  |3.95       |
+|Photogate Sensor|Vernier Photogate |[Link](https://www.vernier.com/products/sensors/vpg-btd/)    |Sensor port for laser  |2x45.00       |
+|Laser Pointer|5mW 532nm Grn Laser Pointer |[Link](https://www.bestlaserpointers.com/5mw-532nm-green-laser-pointer-pen-shape-black.html?gclid=EAIaIQobChMI6--p5_Ln2QIVhyu9Ch34VA71EAkYAiABEgLOGfD_BwE)    |Emits a narrow laser beam  |2x5.50       |
+|Laser Pointer Stand  |Arbor Scientific Laser Tripod       |[Link](https://www.arborsci.com/laser-tripod.html)    |Holds the laser pointers in place|2x17.00       |
 |Mini-USB Cable  |Mini-USB cable - 6ft.       |[Link](https://www.sparkfun.com/products/11301)    |Connects Arduino to computer|3.95       |
-|                |                            |    |**Total**                       |**136.70**     |
+|Photogate stand  |Homemade photogate stand       |[Link]()    |Holds the lasers and photogate|0.00       |
+|                |                            |    |**Total**                       |**192.75**     |
 
 ## Hardware Schematic
 ![Hardware connection diagram](/images/redboard_connection.png "Hardware Connection")
