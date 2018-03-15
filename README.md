@@ -5,7 +5,7 @@
 **Revision:** Version 1.0   <br />
 
 # Problem Statement
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the final project in ENGR101 Fall 2017, students were challenged to create a vehicle that can travel the furthest distance while staying within the course (approximately 2 feet wide). It was a fairly new final project idea so the only way for the students to compete with each other was to see whose vehicle could go the furthest. The engineering department wanted to open up other ways for student compete that was measurable so our team, Clockwork Radishes, developed a way to measure each vehicle’s time and speed through a distance of 3 feet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the final project in ENGR 101 Fall 2017, students were challenged to create a vehicle that can travel the furthest distance while staying within the course (approximately 2 feet wide). It was a fairly new final project idea so the only way for the students to compete with each other was to see whose vehicle could go the furthest. The engineering department wanted to open up other ways for student compete that was measurable so our team, Clockwork Radishes, developed a way to measure each vehicle’s time and speed through a distance of 3 feet.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The way we plan to execute this is by building a stand that holds two photogates and two laser pointers 3 feet apart. Once the car leaves the ramp, it will interrupt the first laser beam, which will start a timer in MATLAB, and stop the timer as soon as the car goes across the second beam. MATLAB will then store the time through those two lasers (3 feet) and calculate the speed for the three trials allowed by the project. The time and speed for each trial will display in a table on the MATLAB screen. 
 
