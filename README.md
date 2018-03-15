@@ -1,8 +1,8 @@
-# **Group Member Names:** Teng Xiong, Layal Abdeljawad, Kaylie Thomas
-# **Team:** Clockwork Radishes
-# **Course and Quarter:** Engineering 114 Winter 2018
-# **Date:** March 20, 2018  
-# **Revision:** Version 1.0  
+**Group Member Names:** Teng Xiong, Layal Abdeljawad, Kaylie Thomas <br />
+**Team:** Clockwork Radishes <br />
+**Course and Quarter:** Engineering 114 Winter 2018 <br />
+**Date:** March 20, 2018   <br />
+**Revision:** Version 1.0   <br />
 
 # Problem Statement
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the final project in ENGR101 Fall 2017, students were challenged to create a vehicle that can travel the furthest distance while staying within the course (approximately 2 feet wide). It was a fairly new final project idea so the only way for the students to compete with each other was to see whose vehicle could go the furthest. The engineering department wanted to open up other ways for student compete that was measurable so our team, Clockwork Radishes, developed a way to measure each vehicle’s time and speed through a distance of 3 feet.
