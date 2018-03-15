@@ -43,7 +43,7 @@ Setup one photogate on one end of the photogate stand and the other photogate on
 
 ### Step 4
 On the other side of the photogate stand from the photogates, wrap the Velcro from the laser pointer stands around the end of the base so it aligns with the photogates.
-![](/Images/laserstand.png)
+#![](/Images/laserstand.png)
 
 
 ### Step 5
