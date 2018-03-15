@@ -62,6 +62,21 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 # ![](/Images/usb.png)
 
 
+# About The Implemented Code
+### Arduino Code
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+### MATLAB Code
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+# Results
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+# Future Work
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 ## License
 
 [GNU Public 3.0](LICENSE)
