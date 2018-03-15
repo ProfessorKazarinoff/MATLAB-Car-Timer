@@ -1,4 +1,5 @@
 **Group Member Names:** Teng Xiong, Layal Abdeljawad, Kaylie Thomas
+**Team:** Clockwork Radishes
 **Course and Quarter:** Engineering 114 Winter 2018
 **Date:** March 20, 2018  
 **Revision:** Version 1.0  
