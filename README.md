@@ -67,6 +67,110 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ### MATLAB Code
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+%% Arduino Group Project: Read Serial from an Arduino and Output the Speed
+
+% This code will collect data formatted as a string over the 
+
+% light level for the course of that time using the connected Arduino
+
+% Hardware.
+
+
+% Revised by: ENGR114 Students at Portland Community College, Winter 2018
+
+% Revised on: 03/08/2018
+
+% Description: Code for reading the speed of car
+
+%% Clc, Clear all, Close all
+clc,clear all, close all % clears command window, workspace varaibles, and closes everything opened
+
+%% Input of time
+duration = input('Enter the number of data points you want to collect (~10 data points per second): ')
+
+%% Set up serial port and ensure it outputs data
+% Change COM3 to the Port the Arduino is connected to
+
+Port = 'COM3';         % Port the Arduino is connected to
+
+delete(instrfindall);  % deletes any connected ports
+
+a = serial(Port);      % connect to the arduino in order to read information 
+
+fopen(a);              % opens the serial port
+
+pause(1);              % pause() for 1 second to make sure a connection is made
+
+out1 = instrfind('Port',Port) % see if any Ports are open
+
+out = fscanf(a) ;      % read one time from the serial port
+
+%% Set up the animated figure
+
+figure
+h = animatedline;
+
+ax = gca;
+ax.YGrid = 'on';
+ax.YLim = [0 1.2];       % the serial output range
+
+xlabel('Data Point (#)');
+ylabel('Reads Sensor');
+title('Photosensor Readings over time');
+
+x=linspace(1,duration,duration);  % can change to change the number of data points 
+
+startTime = datetime('now');
+saved_data = [0 0];
+
+%% Collect serial data
+
+try
+
+for i=1:length(x);
+
+   data = fscanf(a, '%s'); % reads the data from the arduino code
+
+   data = str2num(data);
+
+   saved_data(end+1) = data;
+
+    t =  datetime('now') - startTime;  % updates the time
+
+    addpoints(h,datenum(t),data)       % adds the data point to the figure
+
+    % Update axes
+
+    ax.XLim = datenum([0 t]);
+
+    datetick('x','keeplimits')
+
+    drawnow
+
+end
+
+end
+
+%% close the serial port
+
+fclose(a);
+delete(a)
+clear a;
+
+%% Calculate the Speed of car 
+
+start_index = [];
+for i = 2:numel(saved_data); % loctaing the 1's in the matrix
+    if saved_data(i) - saved_data(i-1) == 1; % finds when sensor 1 is blocked & when sensor 2 is blocked
+        start_index(end+1) = i;
+    end
+end
+
+start_end = start_index(1,1:2); % gets the matrix
+start_end_2 = start_end(1,2) - start_end(1,1); % start - end
+time_= start_end_2 / 10 % time of car
+speed_ = time_ / 3 % speed of car
+
 
 
 # Results
