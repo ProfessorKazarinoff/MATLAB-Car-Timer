@@ -64,7 +64,7 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 # About The Implemented Code
 ### Arduino Code
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
     /* VernierTutorialPhotogate (v2017)
 
@@ -159,9 +159,7 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
     }
     delay(100);
     }
- 
- 
- 
+    
 ### MATLAB Code
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
