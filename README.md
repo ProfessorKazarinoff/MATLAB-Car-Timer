@@ -274,7 +274,7 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 # Future Work
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the MATLAB code, the time phase is manually inputted by the user. Instead, when the program is run there should be a start button. When the user presses start(Enter) the program should be ready to start saving the data. But the timing would actually begin when the first sensor is blocked and end when the second sensor gets blocked. This will be more sufficient when taking in the data and will have a less percent error aswell. 
 
 
 ## License
