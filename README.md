@@ -273,13 +273,16 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 # Results
-(/Images/ENGR114_1.png)
-(/Images/ENGR114_2.png)
-(/Images/ENGR114_3.png)
+ <br />
+![](Images/ENGR114_1.png)
+ <br />
+![](Images/ENGR114_2.png)
+ <br />
+![](Images/ENGR114_3.png)
 
 
 # Future Work
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This was a project that has not been done in ENGR 114 so there are definitely a few things we could improve on. A couple things we would suggest to those who wants to continue on this project is the MATLAB code to start detecting the photogates. When the user presses start(Enter) the program should be ready to start saving the data. We have it so the time phase is manually inputted by the user but instead, there should just simply be a start button to begin the program and know when to stop when the each vehicle has had three trials. Another issue we had with the project is the width of the stand. We anticipated the cars to be able to go straight enough through a 3 feet distance and 2 feet wide opening but it was not always the case. This caused issues with storing accurate data and also it knocked the lasers out of place. We mentioned that this was meant to be on a smaller scale to test that this project could work with a larger frame on the stand so for the future, there  just needs to be a way to make it a wider course.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the MATLAB code, the time phase is manually inputted by the user. Instead, when the program is run there should be a start button. When the user presses start(Enter) the program should be ready to start saving the data. But the timing would actually begin when the first sensor is blocked and end when the second sensor gets blocked. This will be more sufficient when taking in the data and will have a less percent error aswell. 
 
 
 ## License
