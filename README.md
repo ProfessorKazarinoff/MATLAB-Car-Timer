@@ -269,7 +269,9 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
     start_end_2 = start_end(1,2) - start_end(1,1); % start - end
     time_= start_end_2 / 10 % time of car
     speed_ = time_ / 3 % speed of car
-
+    
+    % Table output time and speed
+    table(time_,speed_)
 
 
 ### Results
