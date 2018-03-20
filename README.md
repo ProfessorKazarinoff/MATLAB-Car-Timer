@@ -67,11 +67,12 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 # About The Implemented Code
 ### Arduino Code
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+file:///C:/Users/Layal/Desktop/photogate/photogate.ino
     
 ### MATLAB Code
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+file:///C:/Users/Layal/Desktop/html/photo_sensor.html 
 
 
 ### Results
