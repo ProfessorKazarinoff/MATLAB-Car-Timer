@@ -83,10 +83,8 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
     * Plug the Photogate into the Digital 1 port, and Digital 2 port  
 
-    * on the Vernier Arduino Interface Shield or into a Digital  
-
-    * Protoboard Adapter wired to Arduino pins 2, 3, 4, and 5.
-
+    * on the Vernier Arduino Interface Shield .
+    
     */
 
 
@@ -168,11 +166,13 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
     %% Arduino Group Project: Read Serial from an Arduino and Output the Speed
 
-    % This code will collect data formatted as a string over the 
+    % This code will collect data from the Vernier Arduino Interface Shield.
 
-    % light level for the course of that time using the connected Arduino
-
-    % Hardware.
+    % Its serial monitor will output 1 when the photgate is blocked from the 
+    
+    % car going down the ramp, and output 0 when the photogate is unblocked. 
+    
+    % From that we can calculate the speed by taking the distance over time.
 
 
     % Revised by: ENGR114 Students at Portland Community College, Winter 2018
