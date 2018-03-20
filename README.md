@@ -283,11 +283,11 @@ Arduino Serial Monitor
 
 Results from MATLAB after reading Arduino's serial monitor
 
-![](/Images/timespeed1.PNG) 
+![](/Images/graph_1.PNG) ![](/Images/output_1.PNG)
 
-![](/Images/timespeed2.PNG) 
+![](/Images/graph_2.PNG) ![](/Images/output_2.PNG)
 
-![](/Images/timespeed3.PNG)
+![](/Images/graph_3.PNG) ![](/Images/output_3.PNG)
 
 
 # Future Work
