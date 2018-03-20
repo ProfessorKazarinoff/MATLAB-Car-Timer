@@ -54,7 +54,7 @@ Put the laser pointers in their holders on each stand and align them so the beam
 
 ### Step 6
 Set the photogate stand, with the photogates and lasers attached, at the end of the car ramp. <br />
-![](/Images/nexttoramp.j\png)
+![](/Images/nexttoramp.png)
 
 
 ### Step 7
