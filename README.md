@@ -5,7 +5,7 @@
 **Revision:** Version 1.0   <br />
 
 # Problem Statement
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the final project in ENGR 101 Fall 2017, students were challenged to create a vehicle that can travel the furthest distance while staying within the course (approximately 3 feet wide). It was a fairly new final project idea so the only way for the students to compete with each other was to see whose vehicle could go the furthest. The engineering department wanted to open up other ways for students compete that was measurable so our team, Clockwork Radishes, developed a way to measure each vehicle’s time and speed through a distance of 3 feet.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For the final project in ENGR 101 Fall 2017, students were challenged to create a vehicle that can travel the furthest distance while staying within the course (approximately 3 feet wide). It was a fairly new final project idea so the only way for the students to compete with each other was to see whose vehicle could go the furthest. The engineering department wanted to open up other ways for students compete that was measurable so our team, Clockwork Radishes, developed a way to measure each vehicle’s time and speed through a distance of 3 feet. We knew that if we could execute this on a smaller scale (3 feet distance) then it should work on a larger scale by expanding the distance and width of the stand.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We want to execute this by building a stand that holds two photogates and two laser pointers 3 feet apart. It will measure the time it took the vehicle to go through the two lasers and calculate the speed for the three trials allowed by the project. The time and speed for each trial will display in a table on the MATLAB screen. 
 
