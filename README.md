@@ -273,9 +273,9 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 # Results
-![](/Images/ENGR114_1.png)
-![](/Images/ENGR114_2.png)
-![](/Images/ENGR114_3.png)
+ <br />![](/Images/ENGR114_1.png)
+ <br />![](/Images/ENGR114_2.png)
+ <br />![](/Images/ENGR114_3.png)
 
 
 # Future Work
