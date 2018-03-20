@@ -275,8 +275,17 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 ### Results
+Arduino Serial Monitor
+(1 reads blocked photogate)
+(0 reads unblocked photogate)
+![](/Images/arduino_serial_reading.PNG) 
+
+
+Results from MATLAB after reading Arduino's serial monitor
 ![](/Images/timespeed1.PNG) 
+
 ![](/Images/timespeed2.PNG) 
+
 ![](/Images/timespeed3.PNG)
 
 
