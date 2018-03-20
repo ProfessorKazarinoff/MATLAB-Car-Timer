@@ -283,10 +283,13 @@ Arduino Serial Monitor
 
 Results from MATLAB after reading Arduino's serial monitor
 
+Trail 1
 ![](/Images/graph_1.PNG) ![](/Images/output_1.PNG)
 
+Trial 2
 ![](/Images/graph_2.PNG) ![](/Images/output_2.PNG)
 
+Trail 3
 ![](/Images/graph_3.PNG) ![](/Images/output_3.PNG)
 
 
