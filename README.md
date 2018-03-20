@@ -270,7 +270,7 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 # Results
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 |  Trial     |   Time(s)             |   Speed(m/s)             |
 |    1       |     2.7               |      0.9                 |
 |    2       |     1.3               |      0.433               |
