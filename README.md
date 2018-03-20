@@ -273,12 +273,12 @@ Use the mini-USB cable to connect the Arduino into the laptop then run the progr
 
 
 # Results
-<br /> 
-![](/Images/timespeed1.png)
-<br /> 
-![](/Images/timespeed2.png)
-<br /> 
-![](/Images/tiimespeed3.png)
+ 
+![](/Images/timespeed1.png) 
+
+![](/Images/timespeed2.png) 
+
+![](/Images/tiimespeed3.png) 
 
 
 # Future Work
