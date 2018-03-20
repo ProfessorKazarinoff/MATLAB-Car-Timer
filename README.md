@@ -282,6 +282,7 @@ Arduino Serial Monitor
 
 
 Results from MATLAB after reading Arduino's serial monitor
+
 ![](/Images/timespeed1.PNG) 
 
 ![](/Images/timespeed2.PNG) 
